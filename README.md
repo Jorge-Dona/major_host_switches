@@ -1,1 +1,1 @@
-# major_host_switches
+R code from: Doña, J., Proctor, HC., Mironov, SV., Serrano, D., Jovani, R. Host-specificity, infrequent major host-switching and the diversification of highly host-specific symbionts: the case of feather mites. In rev.
